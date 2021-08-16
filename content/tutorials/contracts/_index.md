@@ -42,7 +42,7 @@ To fix that, select the ship’s FLY button in the Fleet window again, enter the
 
 ![Surface landing](surface-landing.png)
 
-By now, the “Fulfill” buttons on the active contracts you have on that market should have turned green. Click them to load up your ship with the goods you purchased. Before you send your ship back home, make sure to also buy any input materials while your ships are still at the market. You can learn which input materials to buy in the [Production tutorial](../production)
+By now, the “Fulfill” buttons on the active contracts you have on that market should have turned green. Click them to load up your ship with the goods you purchased. Before you send your ship back home, make sure to also buy any input materials while your ships are still at the market. You can learn which input materials to buy in the [Production tutorial](../production).
 
 Once you have all your wares, have your ship return to your base. If you do not know your home planet's ID, click the BS command shortcut on the left. You will find the ID listed under “Planet”. Once it arrives back home, make sure to drag and drop the materials you purchased from its cargo space into your Base’s inventory.
 
